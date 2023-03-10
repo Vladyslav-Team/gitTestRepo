@@ -1,3 +1,9 @@
 Daria
 Yurii
+<<<<<<< HEAD
 Bohdan
+=======
+Samer
+Vladislav
+Yaroslav
+>>>>>>> dev
